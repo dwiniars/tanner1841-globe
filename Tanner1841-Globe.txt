@@ -1,0 +1,27 @@
+Author	Tanner, Henry S.
+Date	1841
+Short Title	Map of the World on the Globular Projection.
+Publisher	H.S. Tanner
+Publisher Location	Philadelphia
+Type	Atlas Map
+Obj Height cm	24
+Obj Width cm	34
+Scale 1	140,000,000
+World Area	World
+Full Title	The Map of the World on the Globular Projection by H.S. Tanner. Philadelphia - Published by H.S. Tanner. 1842.
+List No	0980.006
+Page No	1
+Series No	6
+Publication Author	Tanner, Henry S.
+Pub Date	1842
+Pub Title	A New Universal Atlas Containing Maps of the various Empires, Kingdoms, States and Republics Of The World. With a special map of each of the United States, Plans of Cities &c. Comprehended in seventy sheets and forming a series of One Hundred And Seventeen Maps, Plans And Sections, By H.S. Tanner ... Philadelphia, Published By The Author. 1842. (title page by) J. Knight Sc.
+Pub Note	Last edition published by Tanner. First edition to have the Bradford map of Texas. Includes new maps not listed in the Table of Contents: Wisconsin (no. 25A); Iowa (no. 27A). See Michigan map in this and the 1836 and 1843 editions for interesting changes in the shoreline of the peninsula. Disturnell's name appears on the map publishing credits along with Tanner's, as Tanner and Disturnell, 124 Broadway, New York (which is the same address used by Colton until 1840 - it appears there may have been a link between Tanner, Colton, Smith and Disturnell at this time). Because the name T.R. Tanner also appears on the map credits, we assume the Tanner of Tanner and Disturnell is T.R. Tanner, son of H.S. and Disturnell's junior partner in N.Y.C. (Ristow p318). This edition also includes a unique map of New York City by J. Calvin Smith and published by Tanner and Disturnell, that does not appear in any other editions. Maps in full color. Relief shown in hachures. Prime meridian of states of the United States is Washington. Each atlas page has a header reading, "Tanner's Universal Atlas".
+Pub List No	0980.000
+Pub Type	World Atlas
+Pub Maps	72
+Pub Height cm	46
+Pub Width cm	37
+Image No	0980006.jp2
+Download 1	<a href=http://www.davidrumsey.com/rumsey/download.pl?image=/136/0980006.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Authors	Tanner, Henry S.
